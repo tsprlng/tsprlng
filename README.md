@@ -1,5 +1,7 @@
 ### Hi
 
+See [my website](https://www.tspurling.co.uk) for some bits of writing and a neater list of hopefully-interesting projects.
+
 <!--
 **tsprlng/tsprlng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
