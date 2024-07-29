@@ -2,6 +2,8 @@
 
 See [my website](https://www.tspurling.co.uk) for some bits of writing and a neater list of hopefully-interesting projects.
 
+Here it's mostly stuff I'm doing for fun; I have [a separate profile](https://github.com/mehhhhhhhhhhhhhhh/) for random "DevOps" stuff.
+
 <!--
 **tsprlng/tsprlng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
